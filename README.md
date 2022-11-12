@@ -1,4 +1,9 @@
 # 本文禁止转载!
+<div align="center">
+
+<a href="https://colab.research.google.com/drive/119UrTRdZCKQuBZRplwT0_UYNXnIZXdnx?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+</div>
+
 
 
 本文地址：[https://blog.csdn.net/weixin_44936889/article/details/112002152](https://blog.csdn.net/weixin_44936889/article/details/112002152)

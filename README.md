@@ -10,7 +10,7 @@
 
 # 项目简介：
 使用YOLOv5+Deepsort实现车辆行人追踪和计数，代码封装成一个Detector类，更容易嵌入到自己的项目中。
-
+note: demo.py is changed
 代码地址（欢迎star）：
 
 [https://github.com/Sharpiless/yolov5-deepsort/](https://github.com/Sharpiless/yolov5-deepsort/)

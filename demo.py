@@ -7,7 +7,7 @@ def main():
     name = 'demo'
 
     det = Detector()
-    cap = cv2.VideoCapture('/content/Yolov5-Deepsort/traffic.mp4')
+    cap = cv2.VideoCapture('/content/Yolov5-Deepsort_changed/traffic.mp4')
     fps = int(cap.get(5))
     print('fps:', fps)
     t = int(1000/fps)
